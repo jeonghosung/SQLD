@@ -1,5 +1,5 @@
 # Certifications and Achievements
-## 2. SQLD (SQL Developer)
+## SQLD (SQL Developer)
 
 ### Overview
 The **SQLD (SQL Developer)** certification is an important qualification for demonstrating proficiency in SQL, database design, and query optimization. I pursued this certification to strengthen my SQL skills, which are crucial for handling data in various professional settings, including data analysis and business intelligence.
